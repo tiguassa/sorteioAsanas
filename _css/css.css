@@ -1,0 +1,8 @@
+@CHARSET "UTF-8";
+
+div.main {
+    background: url(_img/Fundo-do-miv.jpeg);
+/*    background-size: 80px 60px;*/
+    background-repeat: no-repeat;
+	color: #AA9977
+}
